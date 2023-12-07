@@ -1,2 +1,5 @@
 # ENSITEduSocAndSMCChal
--dataset  
+- dataset  
+- data cleaning
+- data processing
+- data vizualisation
